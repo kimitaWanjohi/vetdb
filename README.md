@@ -1,7 +1,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Vet Clinic ](#-vet-clinic-)
+- [📖 VetDb ](#-vetdb-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -15,10 +15,9 @@
   - [⭐️ Show your support ](#️-show-your-support-)
   - [📝 License ](#-license-)
 
-# 📖 Vet Clinic <a name="about-project"></a>
+# 📖 VetDb <a name="about-project"></a>
 
-
-**Vet Clinic** is a database about to keep track of the animals that are being treated in a veterinary clinic. It allows to create, read, update and delete animals and their owners.
+**VetDb** is a database about to keep track of the animals that are being treated in a veterinary clinic. It allows to create, read, update and delete animals and their owners.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -47,6 +46,7 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
+
 no live demo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -54,7 +54,6 @@ no live demo
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
 
 To get a local copy up and running, follow these steps.
 
@@ -85,13 +84,11 @@ Clone this repository to your desired folder:
 
 ## 👥 Authors <a name="authors"></a>
 
-
 👤 **Author1**
 
 - GitHub: [@kimitawanjohi](https://github.com/kimitawanjohi)
 - Twitter: [@myro_dev](https://twitter.com/myro_dev)
 - LinkedIn: [kimitawanjohi](https://linkedin.com/in/kimitawanjohi)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,9 +96,7 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
 - [ ] **[deploy to cloud]**
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,7 +113,6 @@ Feel free to check the [issues page](../../issues/).
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-
 
 If you like this project please give it a ⭐️!
 
