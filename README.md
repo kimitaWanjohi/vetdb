@@ -105,7 +105,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- I would like to thank  [Microverse](https://www.microverse.org/) for giving me this wonderful opportunity to work on this project.
+- I would like to thank Microverse for giving me this wonderful opportunity to work on this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
