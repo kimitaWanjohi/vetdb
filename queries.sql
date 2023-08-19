@@ -26,7 +26,6 @@ SELECT * FROM animals;
 UPDATE animals SET weight_kg = weight_kg * -1 WHERE weight_kg < 0;
 
 
-
 SELECT * FROM animals;
 
 COMMIT;SELECT COUNT(*) FROM animals;
@@ -48,6 +47,5 @@ FROM animals
 WHERE date_of_birth BETWEEN '1990-01-01' AND '2000-12-31'
 GROUP BY species;
 
--- corrections
 
 SELECT * FROM animals; 
