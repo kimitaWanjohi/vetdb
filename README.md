@@ -76,7 +76,7 @@ Clone this repository to your desired folder:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Kimita Wanjohi**
 
 - GitHub: [@kimitawanjohi](https://github.com/kimitawanjohi)
 - Twitter: [@myro_dev](https://twitter.com/myro_dev)
@@ -105,7 +105,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- [microverse](https://www.microverse.org/)
+- I would like to thank  [Microverse](https://www.microverse.org/) for giving me this wonderful opportunity to work on this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
